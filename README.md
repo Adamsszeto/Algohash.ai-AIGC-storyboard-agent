@@ -1,6 +1,2 @@
-![]https://komarev.com/ghpvc/?username=Adamsszeto...
-![]https://img.shields.io/github/followers/Adamsszeto...
-
-
-### Algohash.ai-AIGC-storyboard-agent
+#Algohash.ai-AIGC-storyboard-agent
 AIGC Agent - IG,Youtube link to 12-scene storyboard, auto-recreation for Zero-Code
